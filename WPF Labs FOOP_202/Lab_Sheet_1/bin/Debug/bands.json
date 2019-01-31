@@ -1,0 +1,134 @@
+[
+  {
+    "BandName": "Marron 5",
+    "YearFormed": 2001,
+    "Members": "Adam Levine, Jesse Carmichael, Mickey Madden",
+    "Albums": [
+      {
+        "AlbumName": "Songs About Jane",
+        "ReleasedYear": 2008,
+        "YearsSinceReleased": 11,
+        "Sales": 1578778.0150206657
+      },
+      {
+        "AlbumName": "Hands All Over",
+        "ReleasedYear": 2007,
+        "YearsSinceReleased": 12,
+        "Sales": 3703368.5397838093
+      },
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "BandName": "U 2",
+    "YearFormed": 1976,
+    "Members": "Adam Levine, Jesse Carmichael, Mickey Madden",
+    "Albums": [
+      {
+        "AlbumName": "Songs of Experiencee",
+        "ReleasedYear": 2007,
+        "YearsSinceReleased": 12,
+        "Sales": 1645741.5451974336
+      },
+      {
+        "AlbumName": "Songs of Innocence",
+        "ReleasedYear": 1999,
+        "YearsSinceReleased": 20,
+        "Sales": 3027820.4102198686
+      },
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "BandName": "Muse",
+    "YearFormed": 1994,
+    "Members": "Matt Bellamy, Dominic Howard, Chris Wolstenholme",
+    "Albums": [
+      {
+        "AlbumName": "The 2nd Law",
+        "ReleasedYear": 1999,
+        "YearsSinceReleased": 20,
+        "Sales": 622009.94120073039
+      },
+      {
+        "AlbumName": "Origin of Symmetry",
+        "ReleasedYear": 1999,
+        "YearsSinceReleased": 20,
+        "Sales": 2134945.6133949319
+      },
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "BandName": "Led Zeppelin",
+    "YearFormed": 1968,
+    "Members": "Matt Bellamy, Dominic Howard, Chris Wolstenholme",
+    "Albums": [
+      {
+        "AlbumName": "Physical Graffiti",
+        "ReleasedYear": 2006,
+        "YearsSinceReleased": 13,
+        "Sales": 1979572.1850728486
+      },
+      {
+        "AlbumName": "Houses of the Holy",
+        "ReleasedYear": 2018,
+        "YearsSinceReleased": 1,
+        "Sales": 1146815.9226453006
+      },
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "BandName": "Steve Adey",
+    "YearFormed": 2006,
+    "Members": " Steve Adey",
+    "Albums": [
+      {
+        "AlbumName": "The Tower of Silence",
+        "ReleasedYear": 2002,
+        "YearsSinceReleased": 17,
+        "Sales": 634868.06193127669
+      },
+      {
+        "AlbumName": "All Things Real",
+        "ReleasedYear": 2003,
+        "YearsSinceReleased": 16,
+        "Sales": 2012752.8764612754
+      },
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "BandName": "The Killers",
+    "YearFormed": 2001,
+    "Members": "Tommy Marth, Ray Suen",
+    "Albums": [
+      {
+        "AlbumName": "The Tower of Silence",
+        "ReleasedYear": 2002,
+        "YearsSinceReleased": 17,
+        "Sales": 634868.06193127669
+      },
+      {
+        "AlbumName": "Sam's Town",
+        "ReleasedYear": 2007,
+        "YearsSinceReleased": 12,
+        "Sales": 7130757.0082744379
+      },
+      null,
+      null,
+      null
+    ]
+  }
+]
