@@ -1,0 +1,22 @@
+﻿<Window x:Name="Bands" x:Class="Lab_Sheet_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_Sheet_1"
+        mc:Ignorable="d"
+        Title="Bands" Height="450" Width="800" Loaded="Window_Loaded" Background="#FFC5DEDE" Foreground="#FF112B57" OpacityMask="#FF6F72AE">
+    <Grid>
+        <ListBox x:Name="lbxBands" HorizontalAlignment="Left" Height="266" Margin="76,134,0,0" VerticalAlignment="Top" Width="214" SelectionChanged="LbxBands_SelectionChanged"/>
+        <ComboBox x:Name="cbxGenre" HorizontalAlignment="Left" Margin="177,83,0,0" VerticalAlignment="Top" Width="113" Height="26" SelectionChanged="CbxGenre_SelectionChanged"/>
+        <Label Content="Genre&#xD;&#xA;" HorizontalAlignment="Left" Margin="76,83,0,0" VerticalAlignment="Top" Width="96" Height="35" FontSize="14"/>
+        <Label Content="Bands" HorizontalAlignment="Left" Margin="76,28,0,0" VerticalAlignment="Top" Width="123" Height="40" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Band Information" HorizontalAlignment="Left" Margin="428,28,0,0" VerticalAlignment="Top" Width="339" Height="40" FontSize="20" FontWeight="Bold"/>
+        <TextBlock x:Name="tbkInfoBands" HorizontalAlignment="Left" Margin="428,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318" Height="101"/>
+        <Label Content="Albums" HorizontalAlignment="Left" Margin="428,189,0,0" VerticalAlignment="Top" Height="41" Width="238" FontSize="20" FontWeight="Bold"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="672,375,0,0" VerticalAlignment="Top" Width="95" Height="25" FontWeight="Bold" Click="BtnSave_Click"/>
+        <ListBox x:Name="lbxAlbums" HorizontalAlignment="Left" Height="94" Margin="428,266,0,0" VerticalAlignment="Top" Width="339" SelectionChanged="LbxAlbums_SelectionChanged"/>
+        <Label Content="Album                         Year                          Sale" HorizontalAlignment="Left" Margin="428,235,0,0" VerticalAlignment="Top" Height="26" Width="354" FontSize="14"/>
+
+    </Grid>
+</Window>
